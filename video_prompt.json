@@ -1,0 +1,53 @@
+
+{
+  "tamil_cultural_festival": {
+    "title": "Karthigai Deepam – 1950s Tamil Nadu chettinadu Village",
+    "scale_visual_prompt": {
+      "subject": "A traditional Karthigai Deepam celebration in a 1950s Tamil Nadu orthodox village with a temple area where preists are walking and bullock carts moving Families including grandparents, parents and children celebrating together. Women wearing colourful Kanchipuram silk sarees, traditional gold jewellery and jasmine flowers. Men wearing white dhotis and angavastrams. Children wearing traditional pavadai sattai and small dhotis.",
+      
+      "composition": "Wide-angle view of a traditional Agraharam village street with ancestral tiled houses on both sides, decorated with hundreds of glowing clay oil lamps (Agal Vilakku). Families celebrating naturally along the street, with a beautiful ancient temple gopuram visible in the background.",
+      
+      "action": "Women lighting clay lamps at house entrances, men helping their families, children happily carrying small lamps under adult supervision, and grandparents smiling from traditional house verandas. Families exchanging festive greetings. Oil-lamp flames flicker gently in the evening breeze.",
+      
+      "location": "Traditional Tamil Brahmin Agraharam village in Tamil Nadu during the 1950s, featuring red-tiled houses, wooden doors, stone pillars, thinnai verandas, kolam designs, tulasi maadams, brass vessels and traditional village surroundings.",
+      
+      "aesthetic": "Ultra-photorealistic historical cinematic video with a nostalgic and devotional atmosphere. Warm golden oil-lamp glow against a twilight blue sky. Rich silk saree colours, authentic traditional jewellery, realistic human faces and natural body movements. Peaceful, joyful and culturally authentic Tamil village celebration.",
+      
+      "lighting": "Hundreds of warm golden oil lamps illuminating the village street with natural twilight, soft shadows and realistic reflections.",
+      
+      "camera": {
+        "shot": "Wide-angle panoramic establishing shot",
+        "lens": "35mm cinematic lens",
+        "angle": "Eye-level slightly elevated perspective"
+      },
+      
+      "palette": [
+        "Maroon",
+        "Emerald green",
+        "Royal blue",
+        "Traditional gold",
+        "Warm amber",
+        "Terracotta"
+      ],
+      
+      "motion": {
+        "subject_motion": "Women lighting lamps, children walking happily, families exchanging greetings, grandparents smiling, and oil-lamp flames flickering naturally. Gentle movement of sarees and jasmine flowers in the evening breeze.",
+        "camera_move": "Slow, smooth forward tracking movement along the village street, revealing celebrating families, glowing lamps and the temple in the background. No sudden camera movements or scene cuts.",
+        "duration_seconds": 5
+      },
+      
+      "aspect_ratio": "16:9 landscape",
+      
+      "avoid": [
+        "Modern buildings and vehicles",
+        "Electric lights and LED decorations",
+        "Western or contemporary clothing",
+        "Plastic decorations and modern objects",
+        "Cartoon or artificial appearance",
+        "Distorted faces, bodies or extra fingers",
+        "Duplicate people and unnatural movements",
+        "Scene transitions, text, logos and watermarks"
+      ]
+    }
+  }
+}
